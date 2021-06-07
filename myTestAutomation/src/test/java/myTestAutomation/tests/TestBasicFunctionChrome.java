@@ -14,7 +14,7 @@ import myTestAutomation.Config.EggTimerApp;
 public class TestBasicFunctionChrome {
 
 	// Test Data
-	private static final Long SECONDS_25 = 5L;
+	private static final Long SECONDS_25 = 25L;
 	private WebDriver driver;
 	private EggTimerApp app;
 	private String verifyDisplay;
