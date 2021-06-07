@@ -9,6 +9,9 @@ Then the counter functionality is verified if it is counting down every second.
 
 It is also tested and verified that the application ended the timer successfully.
 
+## This requires ChromeDriver
+Download the chromedriver and specify the location in 
+/myTestAutomation/src/test/java/myTestAutomation/Config/ChromeWebDriver.java
 
 ## Further enhancement
 
